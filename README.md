@@ -4,4 +4,6 @@ I studied Computer Science at [McGill University](https://www.mcgill.ca) and am 
 
 For more about me, take a look at my personal website [portfolio-v3-beta-five.vercel.app](https://portfolio-v3-beta-five.vercel.app)
 
+Note: Most of my active development happens in private enterprise repositories.
+
 
